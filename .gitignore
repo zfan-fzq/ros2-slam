@@ -1,0 +1,26 @@
+# ROS2 generated files
+build/
+install/
+log/
+
+# IDE
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Python virtual environments
+venv/
+.venv/
+ros2_venv/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
